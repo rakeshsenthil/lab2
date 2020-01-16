@@ -13,7 +13,7 @@
    the CSS to the page. feel free to remove it once the link is working. */
 body {
      border: 1px dotted gray;
-     padding: 20px;
+     # padding: 20px;
 }
 
 .jumbotron {
@@ -33,6 +33,9 @@ body {
      z-index: -1;
 }
 
-p {
-	font-variant: small-caps;
+.project{
+	margin-left: 20px;
+ background-color: #deebf7;
+ padding: 20px;
+ width: 525px;
 }
